@@ -1,4 +1,4 @@
-# Managig Humans by Michael Loop - Digest
+# Managing Humans by Michael Loop - Digest
 
 
 - You want to work with your team, you want to learn from them, I want them to trust me.
@@ -41,4 +41,4 @@ Strategies for dealing with the unexpected.
 
 It's still a management failure.
 
-It's great that your freak gas chosen to freak out. The alternative is that they're no saying a thing and gave decided to leave the company. It's a good sign that he's not leaving because he clearly, loudly cares.
+It's great that your freak has chosen to freak out. The alternative is that they're no saying a thing and have decided to leave the company. It's a good sign that he's not leaving because he clearly, loudly cares.
