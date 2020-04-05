@@ -29,3 +29,16 @@ Basics:
     If a Vent feels like a speech, a Disaster feels like an attack. Your primary job during the Disaster is to defuse, and you start defusing by contributing absolutely nothing. Be quiet and let the emotion pass. Success comes with traversing the emotional explosion. 
 
     **A Disaster is the end result of poor management.**
+
+## The Monday Freakout
+
+Strategies for dealing with the unexpected.
+
+- Don't participate in the Freakout
+- Give the Freak the benefit of the doubt
+- Hammer the Freak with questions
+- Get the Freaks to solve their own problems
+
+It's still a management failure.
+
+It's great that your freak gas chosen to freak out. The alternative is that they're no saying a thing and gave decided to leave the company. It's a good sign that he's not leaving because he clearly, loudly cares.
