@@ -42,3 +42,20 @@ Strategies for dealing with the unexpected.
 It's still a management failure.
 
 It's great that your freak has chosen to freak out. The alternative is that they're no saying a thing and have decided to leave the company. It's a good sign that he's not leaving because he clearly, loudly cares.
+
+## Dissecting the Mandate
+
+Understanding when and how to insist on strategy
+
+Your job as a manager is to move the team forward without hurting morale.
+
+Three phases:
+
+1. Decide
+When the team is so polarised that they start confusing the emotion with the decision and when the debate is no longer productive, **it's time to make a decision.** 
+Collaborative management style to rescue because I know that the more brains and more time the team spends staring at an idea, the stronger the idea becomes.
+It means our output is of higher quality because we've taken the time to consider what the hell we're doing.
+2. Deliver
+The goal is to explain to the team that a **decision has been made**. Further debate is not necessary. The team has got to leave the room knowing the decision has been made.
+3. Deliver (again)
+Better name might be **damage control**. Delivering (again) is taking the time to individually express your reasoning to the concerned parties - both the winners and the losers.
