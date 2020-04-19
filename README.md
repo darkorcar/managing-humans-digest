@@ -59,3 +59,14 @@ It means our output is of higher quality because we've taken the time to conside
 The goal is to explain to the team that a **decision has been made**. Further debate is not necessary. The team has got to leave the room knowing the decision has been made.
 3. Deliver (again)
 Better name might be **damage control**. Delivering (again) is taking the time to individually express your reasoning to the concerned parties - both the winners and the losers.
+
+## An Engineering Mindset
+
+Advice for maintaining an engineering mindset:
+
+1. Use the development environment to build the product
+2. Be able to draw a detailed architectural diagram describing your product on any whiteboard at any time
+3. Own a feature
+4. Write Unit tests
+
+Stay flexible, remember what it means to be an engineer, and **don't stop developing**.
